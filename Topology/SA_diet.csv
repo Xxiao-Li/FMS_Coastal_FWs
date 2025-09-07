@@ -1,0 +1,17 @@
+,WatDeT,SedDet,SA,DQWZ,Phy,Zooplankton,Bivalves,Gastropods,Other craustaceans,Crabs,Polychaetes,Shrimps,Planiliza haematocheila,Carassius auratus,Eucyclogobiusn ewberryi,Lateolabrax japonicus
+WatDeT,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0
+SedDet,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0
+SA,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+DQWZ,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0
+Phy,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0
+Zooplankton,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0
+Bivalves,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+Gastropods,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Other craustaceans,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0
+Crabs,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1
+Polychaetes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Shrimps,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Planiliza haematocheila,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Carassius auratus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Eucyclogobiusn ewberryi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Lateolabrax japonicus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

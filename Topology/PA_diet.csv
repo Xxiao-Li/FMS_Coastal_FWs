@@ -1,0 +1,14 @@
+,waterdetritus,sedimentdetritus,Phragmites australis,Microphytobenthos,Phytoplankton,Zooplankton,Insects,other crustaceans,Gastropods,crabs,shrimp,Planiliza haematocheila,Eucyclogobius newberryi
+waterdetritus,0,0,0,0,0,1,0,1,0,1,1,0,0
+sedimentdetritus,0,0,0,0,0,0,1,1,1,1,0,0,0
+Phragmites australis,0,0,0,0,0,0,1,0,1,1,0,1,0
+Microphytobenthos,0,0,0,0,0,0,1,0,1,1,0,1,0
+Phytoplankton,0,0,0,0,0,1,0,0,0,0,1,0,0
+Zooplankton,0,0,0,0,0,0,0,0,0,0,1,0,1
+Insects,0,0,0,0,0,0,0,0,1,1,0,1,0
+other crustaceans,0,0,0,0,0,0,0,0,0,0,0,1,1
+Gastropods,0,0,0,0,0,0,0,0,0,1,0,1,1
+crabs,0,0,0,0,0,0,0,0,0,0,0,1,1
+shrimp,0,0,0,0,0,0,0,0,0,0,0,1,1
+Planiliza haematocheila,0,0,0,0,0,0,0,0,0,0,0,0,1
+Eucyclogobius newberryi,0,0,0,0,0,0,0,0,0,0,0,0,0

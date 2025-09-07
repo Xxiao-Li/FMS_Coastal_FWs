@@ -1,0 +1,16 @@
+Nodes,SPM,Sediment detritus,Suaeda salsa,Microphytobenthos,Phytoplankton,Zooplankton,Bivalves,Gastropods,Other crustaceans,Crabs,Polychetes,Shrimps,Planiliza haematocheila,Eucyclogobius newberryi,Lateolabrax japonicus
+SPM,0,0,0,0,0,0.14,0.39,0,0.59,0.12,0.18,0.32,0,0,0
+Sediment detritus,0,0,0,0,0,0,0,0.53,0.41,0.21,0,0,0.15,0,0
+Suaeda salsa,0,0,0,0,0,0,0,0.16,0,0.11,0,0,0.09,0,0
+Microphytobenthos,0,0,0,0,0,0,0,0.31,0,0.15,0.22,0,0.12,0,0
+Phytoplankton,0,0,0,0,0,0.86,0.61,0,0,0,0.21,0.37,0,0,0
+Zooplankton,0,0,0,0,0,0,0,0,0,0,0.19,0.31,0,0.11,0
+Bivalves,0,0,0,0,0,0,0,0,0,0.13,0,0,0.12,0.15,0
+Gastropods,0,0,0,0,0,0,0,0,0,0.13,0,0,0.14,0,0
+Other crustaceans,0,0,0,0,0,0,0,0,0,0.14,0.19,0,0.13,0,0
+Crabs,0,0,0,0,0,0,0,0,0,0,0,0,0.13,0.1,0.15
+Polychetes,0,0,0,0,0,0,0,0,0,0,0,0,0.12,0.24,0
+Shrimps,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21,0.46
+Planiliza haematocheila,0,0,0,0,0,0,0,0,0,0,0,0,0,0.19,0.09
+Eucyclogobius newberryi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3
+Lateolabrax japonicus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
